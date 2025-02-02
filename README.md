@@ -1,6 +1,6 @@
 ### ¡Hola! Soy Marcelo Montenegro 👋
 
-Soy un apasionado desarrollador que disfruta encontrar nuevas soluciones y explorar diferentes enfoques para resolver problemas. Me encanta profundizar en tecnologias habituales y aprender de mis experiencias.
+Soy un apasionado desarrollador que disfruta encontrar nuevas soluciones y explorar diferentes enfoques para resolver problemas. Me encanta profundizar en tecnologías habituales y aprender de mis experiencias.
 
 **Mis Áreas de Enfoque**:
 - Desarrollo de Software Full-Stack
