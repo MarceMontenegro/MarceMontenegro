@@ -44,5 +44,20 @@ Soy un apasionado desarrollador que disfruta encontrar nuevas soluciones y explo
 
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MarceMontenegro&show_icons=true&theme=buefy&hide_border=true" alt="Estadísticas de GitHub" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceMontenegro&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceMontenegro&theme=blue-green&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
+</div>
+<div align="center">
+
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceMontenegro&show_icons=true&theme=blue-green)|<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarceMontenegro&theme=blue-green" alt="MarceMontenegro" />|
+|:-:|:-:|
+
+</div>
+
+
+## 
+
+![Visualizaciones](https://komarev.com/ghpvc/?username=MarceMontenegro&color=brightgreen)
