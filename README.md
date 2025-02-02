@@ -40,9 +40,9 @@ Soy un apasionado desarrollador que disfruta encontrar nuevas soluciones y explo
 ## Conéctate conmigo:
 
 <p align = "center">
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marcelo-montenegro-244099107/)
-[<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/MarceMontenegro)
+<a href="https://www.linkedin.com/in/marcelo-montenegro-244099107/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=buefy&hide_border=true" alt="Estadísticas de GitHub" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MarceMontenegro&show_icons=true&theme=buefy&hide_border=true" alt="Estadísticas de GitHub" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceMontenegro&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
