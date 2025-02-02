@@ -1,17 +1,13 @@
 ### ¡Hola! Soy Marcelo Montenegro 👋
 
-Soy un apasionado desarrollador que disfruta encontrar nuevas soluciones y explorar diferentes enfoques para resolver problemas. Me encanta aprender tecnologías emergentes y contribuir a proyectos innovadores.
+Soy un apasionado desarrollador que disfruta encontrar nuevas soluciones y explorar diferentes enfoques para resolver problemas. Me encanta profundizar en tecnologias habituales y aprender de mis experiencias.
 
 **Mis Áreas de Enfoque**:
 - Desarrollo de Software Full-Stack
 - Implementación de Soluciones Escalables
+- Automatización de tareas
 - Optimización de Procesos
-- Diseño de Interfaces Intuitivas
-
-**Estoy abierto a**:
-- Colaboraciones en proyectos tecnológicos,
-- Oportunidades de desarrollo de software,
-- Propuestas de trabajo freelance o tiempo completo.
+  
 
 ## Habilidades:
 
@@ -44,9 +40,8 @@ Soy un apasionado desarrollador que disfruta encontrar nuevas soluciones y explo
 ## Conéctate conmigo:
 
 <p align = "center">
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tu-perfil/)
-[<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/tu-usuario)
-[<img src="https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" />](https://tu-portfolio.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marcelo-montenegro-244099107/)
+[<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/MarceMontenegro)
 </p>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=buefy&hide_border=true" alt="Estadísticas de GitHub" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=buefy&hide_border=true" /></a> |
